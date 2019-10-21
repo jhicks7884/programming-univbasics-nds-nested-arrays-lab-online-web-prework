@@ -30,7 +30,7 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  ENNET_HOUSE[0][1]
+  ENNET_HOUSE[1][1]
   # Return the matrix's content at row and column
 end
 
