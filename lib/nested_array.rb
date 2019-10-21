@@ -30,7 +30,7 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  ([ENFIELD_TENNIS_ACADEMY,[0] , [1] ])
+  ([assembled_matrix,1 ,1 ])
   # Return the matrix's content at row and column
 end
 
