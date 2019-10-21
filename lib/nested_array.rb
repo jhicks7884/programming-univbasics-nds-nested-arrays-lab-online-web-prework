@@ -17,7 +17,7 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  ENNET_HOUSE = [("Don Gately", "Joelle Van Dyne")] [("Pat M")]
+  ENNET_HOUSE = [("Don Gately", "Joelle Van Dyne")], [("Pat M")],
 [("Kate Gompert", "Bruce Green")]
 
 ENFIELD_TENNIS_ACADEMY = [["Hal Incandenza", "Lyle", "Gerhard Schitt",] ["Mario Incandenza", "Michael Pomulis"]]
